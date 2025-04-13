@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer with almost 10 years experience and a strong focus on Cloud Computing and UX/UI Design.
+I'm a Full-Stack Developer with almost 10 years experience and a strong focus on Cloud Computing and UX/UI Design.
 
 
 # 💻 Tech Stack:
