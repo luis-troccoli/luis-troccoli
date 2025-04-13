@@ -1,5 +1,5 @@
 # 💫 About Me:
-UX/UI Developer moving to Cloud Computing
+Full-Stack Developer with almost 10 years experience and a strong focus on Cloud Computing and UX/UI Design.
 
 
 # 💻 Tech Stack:
