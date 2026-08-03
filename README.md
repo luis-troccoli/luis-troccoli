@@ -19,7 +19,7 @@ Before specializing in cloud security, I worked across full-stack development an
 
 ---
 
-## 💻 Tech Stack
+## 💻 Languages and Tools 🔨🔧
 
 **Cloud, IaC & Security**
 
