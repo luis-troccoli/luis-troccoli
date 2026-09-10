@@ -2,6 +2,7 @@
 
 * 🔭 I'm currently building a portfolio of Terraform security baselines across Azure, GCP, and AWS
 * 💬 Ask me about Terraform, IaC security guardrails, or FinOps budgeting
+* 🚀 Check out [SolSOC](https://github.com/luis-troccoli/solsoc) — AI-powered SOC alert triage CLI, free and open source
 
 ---
 
