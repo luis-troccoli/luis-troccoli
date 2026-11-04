@@ -25,7 +25,7 @@ The design background shows up as infrastructure that's not just secure but revi
 | [FinTech-Guard-Native](https://github.com/luis-troccoli/gcp-fintech-guard-native) | The same baseline, ported to Google Cloud | Terraform · Secret Manager · Workload Identity Federation |
 
 ### 🌍 LinkedIn Profile
-[LinkedIn](https://www.linkedin.com/in/luis-troccoli-it/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn%20Profile-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-troccoli-it/)
 
 ---
 
