@@ -24,6 +24,8 @@ The design background shows up as infrastructure that's not just secure but revi
 | [FinTech-Guard-OS](https://github.com/luis-troccoli/fintech-guard-os) | Phase 3 — modular Azure architecture with FinOps guardrails | Terraform modules · Azure Budgets |
 | [FinTech-Guard-Native](https://github.com/luis-troccoli/gcp-fintech-guard-native) | The same baseline, ported to Google Cloud | Terraform · Secret Manager · Workload Identity Federation |
 
+---
+
 ### 🌍 Check my LinkedIn
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn%20Profile-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-troccoli-it/)
 
