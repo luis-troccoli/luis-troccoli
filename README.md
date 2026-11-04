@@ -1,7 +1,6 @@
 ## Hi, I'm Luis 👋 — I make clouds boring (for attackers) — Cloud Security Engineer · DevSecOps🔐☁️
 
 UX/UI and web dev → 6+ years in cloud infrastructure, SOC operations and security automation.
-Azure · AWS · Google Cloud
 
 ```hcl
 resource "engineer" "luis" {
