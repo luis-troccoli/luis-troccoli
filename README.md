@@ -1,22 +1,29 @@
-# Hi there 👋, I'm Luis — a Full-Stack Developer turned Cloud Security Engineer 🔐☁️
+## Hi there 👋, I'm Luis — a web developer turned Cloud Security Engineer 🔐☁️
 
-* 🔭 I'm currently building a portfolio of Terraform security baselines across Azure, GCP, and AWS
-* 💬 Ask me about Terraform, IaC security guardrails, or FinOps budgeting
-* 🚀 Check out [SolSOC](https://github.com/luis-troccoli/solsoc) — AI-powered SOC alert triage CLI, free and open source
+- 🔭 Building a portfolio of Terraform security baselines across clouds — Azure and Google Cloud done, AWS next
+- 💬 Ask me about Terraform, IaC security guardrails, or FinOps budgeting
+- 🚀 Check out [SolSOC](https://github.com/luis-troccoli/solsoc) — AI-powered SOC alert triage CLI, free and source-available
 
----
+### 📕 About me
 
-## 📕 About me
+I started in UX/UI design and web development, and for the last 6+ years I've worked in cloud infrastructure, SOC operations and security automation. I build infrastructure-as-code that treats security and cost control as first-class requirements, not an afterthought bolted on before a compliance review: modular Terraform, default-deny networking out of the box, secrets in each platform's native vault instead of hardcoded values, and CI/CD pipelines with a blocking security-scan gate rather than a warning that gets ignored.
 
-With over 10 years of experience as a full-stack developer, I've spent the last stretch of my career specializing in Cloud Security and DevSecOps. I design and build infrastructure-as-code that treats security and cost control as first-class requirements, not an afterthought bolted on before a compliance review — that means modular Terraform, default-deny network posture out of the box, secrets managed through each platform's native vaulting service instead of hardcoded values, and CI/CD pipelines with a blocking security-scan gate rather than a warning that gets ignored.
+I build the same security baseline on more than one cloud to keep it portable instead of locked into one vendor's tooling, and I document where a guardrail doesn't translate 1:1 rather than papering over the gap.
 
-I've built the same security baseline across multiple cloud providers — Azure and Google Cloud so far — to keep it portable rather than locked into one vendor's tooling, and I document the places where a guardrail genuinely doesn't translate 1:1 rather than papering over the gap.
+The design background shows up as an emphasis on infrastructure that's not just secure but reviewable: clear module boundaries and no hidden defaults.
 
-Before specializing in cloud security, I worked across full-stack development and UX/UI design — that background now shows up as an emphasis on infrastructure that's not just secure, but reviewable: clear module boundaries and no hidden defaults.
+### 🧪 Projects
 
-## 🚀 Work experience and curriculum:
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [SolSOC](https://github.com/luis-troccoli/solsoc) | AI SOC alert triage — verdicts, MITRE ATT&CK mapping, noise suppression | Python · Splunk · Sentinel · Wazuh · LLMs |
+| [Project Vault](https://github.com/luis-troccoli/project-vault) | Phase 1 — Azure security fundamentals lab | Terraform · Key Vault · RBAC · NSG |
+| [Secure Cloud Foundation](https://github.com/luis-troccoli/secure-cloud-foundation) | Phase 2 — federated identity & shift-left security | GitHub Actions · OIDC · Checkov |
+| [FinTech-Guard-OS](https://github.com/luis-troccoli/fintech-guard-os) | Phase 3 — modular Azure architecture with FinOps guardrails | Terraform modules · Azure Budgets |
+| [FinTech-Guard-Native](https://github.com/luis-troccoli/gcp-fintech-guard-native) | The same baseline, ported to Google Cloud | Terraform · Secret Manager · Workload Identity Federation |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-troccoli-it/)
+### 🌍 Elsewhere
+[LinkedIn](https://www.linkedin.com/in/luis-troccoli-it/) · Spanish · English · Italian
 
 ---
 
