@@ -64,4 +64,4 @@ I've spent 6+ years in cloud infrastructure, SOC operations and security automat
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/luis-troccoli-it/) · 🇪🇸 🇬🇧 🇮🇹
+[LinkedIn](https://www.linkedin.com/in/luis-troccoli-it/)
