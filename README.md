@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Luis — a web developer turned Cloud Security Engineer 🔐☁️
 
-- 🔭 Building Terraform security baselines across clouds — Azure ✅ Google Cloud ✅ AWS 🔜
+- 🔭 Building Terraform security baselines across clouds — Azure ✅ Google Cloud ✅ AWS ✅
 - 🛡️ Pipelines where security scans **block** the merge, not just warn about it
 - 🔑 Zero static credentials — OIDC and Workload Identity Federation everywhere
 - 🚀 Check out [SolSOC](https://github.com/luis-troccoli/solsoc) — AI-powered SOC alert triage CLI, free and source-available
@@ -24,8 +24,8 @@ The design background shows up as infrastructure that's not just secure but revi
 | [FinTech-Guard-OS](https://github.com/luis-troccoli/fintech-guard-os) | Phase 3 — modular Azure architecture with FinOps guardrails | Terraform modules · Azure Budgets |
 | [FinTech-Guard-Native](https://github.com/luis-troccoli/gcp-fintech-guard-native) | The same baseline, ported to Google Cloud | Terraform · Secret Manager · Workload Identity Federation |
 
-### 🌍 Elsewhere
-[LinkedIn](https://www.linkedin.com/in/luis-troccoli-it/) · Spanish · English · Italian
+### 🌍 LinkedIn Profile
+[LinkedIn](https://www.linkedin.com/in/luis-troccoli-it/)
 
 ---
 
@@ -46,10 +46,6 @@ The design background shows up as infrastructure that's not just secure but revi
 **Data & Version Control**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Design**
-
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
