@@ -26,11 +26,6 @@ The design background shows up as infrastructure that's not just secure but revi
 
 ---
 
-### 🌍 Check my LinkedIn
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn%20Profile-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-troccoli-it/)
-
----
-
 ## 💻 Languages and Tools 🔨🔧
 
 **Cloud, IaC & Security**
